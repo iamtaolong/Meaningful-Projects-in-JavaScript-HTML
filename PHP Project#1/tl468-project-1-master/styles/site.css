@@ -1,0 +1,287 @@
+html {
+  font-family: sans-serif;
+}
+
+h1,
+a {
+  color: navy;
+}
+
+h2 {
+  color: #4682B4;
+}
+
+article p {
+  text-align: justify;
+}
+
+header {
+  background-color: #7786a3;
+  padding: 1px 0 30px 0;
+}
+
+header .title {
+  padding: 10px;
+}
+
+nav {
+  display: inline;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  margin: 0;
+  padding: 10px;
+  display: inline;
+}
+
+footer {
+  padding: 10px 10px;
+  background-color: #7786a3;
+}
+
+body {
+  margin: 0 auto;
+}
+
+figure {
+  margin: 20px;
+}
+
+figure img {
+  width: 200px;
+}
+
+
+.group_label_input {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.group_label_input :first-child {
+  width: 35%;
+  text-align: right;
+  margin-right: 4px;
+}
+
+
+main {
+  padding: 10px;
+}
+
+#more {
+  font-weight: bold;
+  background-color: #978fad;
+  padding: 10px;
+  font-size: 18px;
+
+  cursor: pointer;
+}
+
+#more:hover {
+  background-color: #78e6cf;
+}
+
+#more-content {
+  background: #bbbbbb;
+  padding: 10px;
+}
+
+#mail {
+  width: 300px;
+}
+
+#submit {
+  margin-top: 10px;
+}
+
+#database {
+  float: right;
+}
+
+cite {
+  font-size: 70%;
+}
+
+.error {
+  display: inline-block;
+  background-color: white;
+  border: 1px #b92467 solid;
+  color: #b92467;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+h1,
+a {
+  color: navy;
+}
+
+h2 {
+  color: #4682B4;
+}
+
+article p {
+  text-align: justify;
+}
+
+header {
+  background-color: #7786a3;
+  padding: 1px 0 30px 0;
+}
+
+header .title {
+  padding: 10px;
+}
+
+nav {
+  display: inline;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  margin: 0;
+  padding: 10px;
+  display: inline;
+}
+
+footer {
+  padding: 10px 10px;
+  background-color: #7786a3;
+}
+
+body {
+  margin: 0 auto;
+}
+
+figure {
+  margin: 20px;
+}
+
+figure img {
+  width: 200px;
+}
+
+main {
+  padding: 10px;
+}
+
+#more {
+  font-weight: bold;
+  background-color: #978fad;
+  padding: 10px;
+  font-size: 18px;
+
+  cursor: pointer;
+}
+
+#more:hover {
+  background-color: #78e6cf;
+}
+
+#more-content {
+  background: #bbbbbb;
+  padding: 10px;
+}
+
+#mail {
+  width: 300px;
+}
+
+#submit {
+  margin-top: 10px;
+}
+
+#database {
+  float: right;
+}
+
+cite {
+  font-size: 70%;
+}
+
+.error {
+  display: inline-block;
+  background-color: white;
+  border: 1px #b92467 solid;
+  color: #b92467;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
+
+.current_page {
+  font-weight: bold;
+  border-color: navy;
+  border-style: solid;
+  padding: 2px 2px 2px 2px;
+  text-decoration: none;
+}
+
+#flower_order {
+  width: 400px;
+}
+
+#flower_order * {
+  margin-bottom: 4px;
+}
+
+.group_label_input {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.group_label_input :first-child {
+  width: 35%;
+  text-align: right;
+  margin-right: 4px;
+}
+
+#flower_order input[type=number] {
+  width: 60px;
+}
+
+input[type=submit] {
+  margin-top: 10px;
+}
+
+.form_feedback {
+  color: red;
+}
+
+.zoo_gallery {
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+}
+
+#insurance_form * {
+  margin-bottom: 4px;
+}
+
+#insurance_form{
+  width: 600px;
+}
